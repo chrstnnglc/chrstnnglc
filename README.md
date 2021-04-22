@@ -1,7 +1,5 @@
 Hi, I'm Christine, a software engineer! I'm interested in web development and UX. 🍰
 
-You can reach me at catfelizardo@gmail.com. See ya!
-
 <!--- - 👋 Hi, I’m @chrstnnglc
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
