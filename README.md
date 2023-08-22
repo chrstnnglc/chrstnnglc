@@ -1,4 +1,4 @@
-Hi, I'm Christine, a user experience engineer! I'm interested in web development and UX. 🍰
+Hi, I'm Christine, a software engineer! I'm interested in web development and UX. 🍰
 
 <!--- - 👋 Hi, I’m @chrstnnglc
 - 👀 I’m interested in ...
